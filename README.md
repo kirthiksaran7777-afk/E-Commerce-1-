@@ -6,7 +6,7 @@
 
 * **Project Title:** E-Commerce Order Management Database System
 * **Course:** Database Management System
-* **Week:** Week 1 – Understanding the Business Problem
+ Understanding the Business Problem
 
 ---
 
